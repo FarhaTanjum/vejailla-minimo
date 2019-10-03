@@ -1,0 +1,227 @@
+*{
+	/* margin: 0px; */
+	/* padding: 0px; */
+}
+header{
+	width: 90%;
+	margin:auto;
+	margin-top: 40px;
+}
+.logo{
+	width: 20%;
+	float: left;
+
+}
+.menu{
+	width: 60%;
+	float: right;
+}
+.menu ul{
+
+list-style: none;
+
+float: right;
+}
+.menu ul li{
+	float: left;
+	margin-left: 80px;
+	right: 0px;
+}
+.menu ul li:last-child{
+	margin right:0px;
+
+}
+.menu ul li a{
+	
+text-decoration: none;
+	
+text-transform: uppercase;
+	
+color: #ACACAC;
+}
+.banner{
+
+      width: 90%;
+      margin:auto;
+}
+.banner img{
+	width: 100%;
+
+
+}
+.photodiery{
+	width: 80%;
+	margin: auto;
+	margin-top: 50px;
+}
+.photodiery h1{
+
+color: #656565;
+
+margin-bottom: 20px;
+}
+.photodiery h4{
+
+text-transform: uppercase;
+
+font-size: 14px;
+
+color: #CFCFC3;
+
+margin-bottom: 70px;
+}
+.photodiery p{
+
+color: #717171;
+
+line-height: 18px;
+
+margin-bottom: 30px;
+}
+
+.service-wrapper{
+	width: 80%;
+	margin:auto;
+	display: flex;
+	justify-content: space-between;
+}
+.one{
+	width: 45%;
+	margin-bottom: 10px;
+}
+.one img{
+
+width: 100%;
+}
+.one h4{
+
+font-size: 14px;
+
+color: #CFCFC3;
+
+margin-top: 20px;
+
+margin-bottom: 20px;
+}
+.one h1{
+
+color: #656565;
+
+margin-bottom: 20px;
+}
+.one p{
+	
+margin-bottom: 80px;
+}
+
+.one{
+	width: 45%;
+	margin-bottom: 10px;
+}
+.one img{
+
+width: 100%;
+}
+.one h4{
+
+font-size: 14px;
+
+color: #CFCFC3;
+
+margin-top: 20px;
+
+margin-bottom: 20px;
+}
+.one h1{
+
+color: #656565;
+
+margin-bottom: 20px;
+}
+.one p{
+	
+}
+.newsletter{
+
+background-color: #F0F0F0;
+
+height: 300px;
+
+margin-bottom: 90px;
+}
+.news-content{
+
+width: 25%;
+
+margin: auto;
+
+padding-top: 80px;
+}
+.news-content h1{
+
+color: #656565;
+}
+.news-content input{border: none;background-color: #F0F0F0;border-bottom: 2px solid black;width: 370px;margin-top: 50px;}
+
+button{
+	height: 50px;
+	width: 10%;
+	margin: 50px 800px 50px 700px;
+}
+button h4{
+
+color: #8a8a8a;
+
+}
+.last-wrapper{
+
+width: 100%;
+
+height: 100px;
+
+background-color: #F0F0F0;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-between;
+
+padding-top: 42px;
+}
+.terms{
+
+width: 30%;
+
+/* margin: auto; */
+}
+.terms ul{
+
+list-style: none;
+}
+.terms ul li {
+
+float: left;
+
+margin-right: 25px;
+}
+
+.social-icon{
+	
+width: 40%;
+}
+.social-icon ul{margin-right: 10px;}
+.social-icon ul li{
+    list-style: none;
+    float: left;
+    margin-right: 25px;
+}
+.social-iconul li a{
+
+}
+.social-icon ul li a i{
+	
+color: #000000;
+}
+
+
